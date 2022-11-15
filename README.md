@@ -1,4 +1,4 @@
-# 100-days-of-Code
+# 100-days-of-Code-Coffee_Machine
 In this project we were tasked with creating a virtual coffee machine.
 The user is prompted for inputs on what drink they want, and how many of each coin they are inserting.
 
